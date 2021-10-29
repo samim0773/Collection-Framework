@@ -20,3 +20,5 @@ public class TreeSetDemo {
 	}
 
 }
+
+// we can take referance alos collection and sortedset 
